@@ -1,0 +1,7 @@
+D:\gitdata\change-position\ChangePosition\ChangePosition\bin\Debug\ChangePosition.exe.config
+D:\gitdata\change-position\ChangePosition\ChangePosition\bin\Debug\ChangePosition.exe
+D:\gitdata\change-position\ChangePosition\ChangePosition\bin\Debug\ChangePosition.pdb
+D:\gitdata\change-position\ChangePosition\ChangePosition\obj\Debug\ChangePosition.csprojAssemblyReference.cache
+D:\gitdata\change-position\ChangePosition\ChangePosition\obj\Debug\ChangePosition.csproj.CoreCompileInputs.cache
+D:\gitdata\change-position\ChangePosition\ChangePosition\obj\Debug\ChangePosition.exe
+D:\gitdata\change-position\ChangePosition\ChangePosition\obj\Debug\ChangePosition.pdb
