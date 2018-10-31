@@ -5,19 +5,18 @@
 # 關於C#陣列的介紹
 * 陣列的宣告
 ```
-    型別[] 陣列名稱= new 型別[];
-    ex: int[] myArray = new int[];
-    string myArray = new string[5] {"紅","黑","白","黃","綠"};
+型別[] 陣列名稱= new 型別[];
+ex: int[] myArray = new int[];
+string myArray = new string[5] {"紅","黑","白","黃","綠"};
 ```    
 * 陣列屬性
 ```
-    Array.Length 取得陣列資料長度
-    範例:
-    int[] num = { 1, 2, 3, 4, 5, 6, 7 };
-    Console.WriteLine(num.Length);
+Array.Length 取得陣列資料長度
+範例:
+int[] num = { 1, 2, 3, 4, 5, 6, 7 };
+Console.WriteLine(num.Length);
 ```
 更多資訊可以參考[C# Array陣列](https://adon988.logdown.com/posts/1175641-c-array-teaching-notes-using-visual-studio "按下去發現新世界")
-```
 # 作法
 ```
 using System;
