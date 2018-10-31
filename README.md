@@ -1,7 +1,7 @@
 # 陣列,位置與順序
     ex: 輸入 紅,黑,白,黃,綠
-         輸出 MyArray[0] = 綠 MyArray[0] = 黃 MyArray[0] = 白 MyArray[0] = 黑 MyArray[0] = 紅
-         (規定:請使用陣列)
+        輸出 MyArray[0] = 綠 MyArray[0] = 黃 MyArray[0] = 白 MyArray[0] = 黑 MyArray[0] = 紅
+        (規定:請使用陣列)
 # 關於C#陣列的介紹
 * 陣列的宣告
 ```
