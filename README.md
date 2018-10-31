@@ -11,7 +11,7 @@
     範例:
     int[] num = { 1, 2, 3, 4, 5, 6, 7 };
     Console.WriteLine(num.Length);
-    更多資訊可以參考[C# Array陣列](https://adon988.logdown.com/posts/1175641-c-array-teaching-notes-using-visual-studio "按下去發現新世界")
+# 更多資訊可以參考[C# Array陣列](https://adon988.logdown.com/posts/1175641-c-array-teaching-notes-using-visual-studio "按下去發現新世界")
 # 作法
 ```
 using System;
