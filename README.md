@@ -7,7 +7,7 @@
 ```
 型別[] 陣列名稱= new 型別[];
 ex: int[] myArray = new int[];
-string myArray = new string[5] {"紅","黑","白","黃","綠"};
+string[] myArray = new string[5] {"紅","黑","白","黃","綠"};
 ```    
 * 陣列屬性
 ```
